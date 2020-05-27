@@ -1,3 +1,7 @@
 *.egg-info
 norilog.json
 venv
+dist
+build
+__pycache__
+setup.cfg
